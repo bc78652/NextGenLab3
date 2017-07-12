@@ -5,6 +5,7 @@ table{
 }
 
 h1{
+	margin: center;
 	color:orange;
 	text-align: center
 }
@@ -13,9 +14,16 @@ td{
 	border: 2px inset;
 	padding: 3px;
 	margin: 2px;
-	color: blue;
+	color: white;
 	font-style:Times New Roman;
 }
 body{
-	background-image: url(https://media.giphy.com/media/7puPFCCKqYHII/giphy.gif)
+	
+	background-image: url(https://media.giphy.com/media/dVjsehrqKgK7S/giphy.gif)
+}
+address{
+	color: white;
+}
+#google{
+	color: blue;
 }
