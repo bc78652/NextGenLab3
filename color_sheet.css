@@ -27,3 +27,6 @@ address{
 #google{
 	color: blue;
 }
+.stretch{
+/* Will stretch to specified width/height */
+  background-size: 200px 150px;
